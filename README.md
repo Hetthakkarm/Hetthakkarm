@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hetthakkarm
+- 👋 Hi, I’m @Hetthakkar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
